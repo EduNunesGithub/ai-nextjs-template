@@ -1,0 +1,13 @@
+*.tsbuildinfo
+.claude/
+.codex/
+.husky/_/
+.next/
+AGENTS.md
+build/
+CLAUDE.md
+next-env.d.ts
+node_modules/
+out/
+package-lock.json
+pipeline/
